@@ -39,3 +39,5 @@ next-env.d.ts
 
 # db
 postgres-data
+.idea/vcs.xml
+.idea/workspace.xml
